@@ -1,0 +1,2 @@
+# consistency_budgeted_evaluation_1179abd4
+（语音场景）批处理调度与吞吐折中的噪声会不会盖住真实差异？用口径一致性比对比较噪声幅度与效应幅度。
